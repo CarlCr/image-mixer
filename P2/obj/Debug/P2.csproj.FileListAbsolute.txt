@@ -1,0 +1,9 @@
+C:\Users\Carl Cr\Projectos\C#\IMIL\TLP\Tarefa\P2\P2\bin\Debug\P2.exe.config
+C:\Users\Carl Cr\Projectos\C#\IMIL\TLP\Tarefa\P2\P2\bin\Debug\P2.exe
+C:\Users\Carl Cr\Projectos\C#\IMIL\TLP\Tarefa\P2\P2\bin\Debug\P2.pdb
+C:\Users\Carl Cr\Projectos\C#\IMIL\TLP\Tarefa\P2\P2\obj\Debug\P2.csprojResolveAssemblyReference.cache
+C:\Users\Carl Cr\Projectos\C#\IMIL\TLP\Tarefa\P2\P2\obj\Debug\P2.Form1.resources
+C:\Users\Carl Cr\Projectos\C#\IMIL\TLP\Tarefa\P2\P2\obj\Debug\P2.Properties.Resources.resources
+C:\Users\Carl Cr\Projectos\C#\IMIL\TLP\Tarefa\P2\P2\obj\Debug\P2.csproj.GenerateResource.Cache
+C:\Users\Carl Cr\Projectos\C#\IMIL\TLP\Tarefa\P2\P2\obj\Debug\P2.exe
+C:\Users\Carl Cr\Projectos\C#\IMIL\TLP\Tarefa\P2\P2\obj\Debug\P2.pdb
